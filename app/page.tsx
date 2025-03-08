@@ -28,6 +28,7 @@ import { useState } from "react";
 import Chatbox from "@/components/chatBox";
 
 export default function VillaLandingPage() {
+
   {
     /* Mobile Responsive Handler */
   }
