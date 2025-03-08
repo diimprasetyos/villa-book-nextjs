@@ -6,9 +6,9 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Villa Orlando - Cozy Villa Rentals",
+  title: "Villa Orlando - Villa Rentals Taman Dayu Pandaan",
   description:
-    "Experience cozy living in our exclusive villa orlando hills, where comfort meets elegance in a serene natural setting.",
+    "Experience cozy living in our exclusive villa orlando hills, where comfort meets elegance in a serene natural setting. Sewa villa taman dayu pandaan, villa dekat toll pandaan, homestay taman dayu pandaan jawa timur",
 }
 
 export default function RootLayout({
