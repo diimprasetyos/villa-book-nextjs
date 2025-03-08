@@ -29,11 +29,6 @@ import Chatbox from "@/components/chatBox";
 
 export default function VillaLandingPage() {
   {
-    /* Chatbot Handler */
-  }
-  const [isChatOpen, setIsChatOpen] = useState(false);
-
-  {
     /* Mobile Responsive Handler */
   }
   const [isMenuOpen, setIsMenuOpen] = useState(false);
