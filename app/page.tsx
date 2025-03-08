@@ -6,7 +6,6 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Card, CardContent } from "@/components/ui/card";
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import {
   MapPin,
   Phone,
@@ -20,13 +19,10 @@ import {
   Heater,
   Bath,
   Refrigerator,
-  MessageSquare,
   Menu,
   X,
   Users,
-  Wifi,
   Coffee,
-  Box,
 } from "lucide-react";
 import { useState } from "react";
 import Chatbox from "@/components/chatBox";
